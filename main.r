@@ -1,6 +1,7 @@
-##### Load data #####
 library(readr)
 library(tidyverse)
+
+#### Load data ####
 
 passer <- read.csv("<QBdata>")
 # View(passer)
